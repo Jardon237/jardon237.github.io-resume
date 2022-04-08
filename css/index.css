@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.container{
+    margin: 50px,auto;
+    display: flex;
+    width: 90%;
+}
+aside{
+    background-color: white;
+    border: 1px solid grey;
+    margin: 2%;
+    flex 1000;  
+}
