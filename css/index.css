@@ -12,5 +12,27 @@ aside{
     background-color: white;
     border: 1px solid grey;
     margin: 2%;
-    flex 1000;  
+    flex: 3;
+    
+     
 }
+main{
+    flex: 7;
+}
+.psrn{
+    width:300px;
+    height: auto;
+}
+.my_name{
+    color:gray ;
+    font-size: 2vw;
+    margin: 5px;
+}
+.person_detais{
+    font-size: 1.13vw;
+    padding: 25px;
+    list-style:none;
+    color:#009688;
+    
+}
+
