@@ -121,4 +121,6 @@ footer{
 footer a{
     color: antiquewhite;
     font-size: 1.2;
+    padding: 2px;
+    font-size: large;
 }
