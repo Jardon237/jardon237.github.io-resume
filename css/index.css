@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing:border-box;
 }
+hr{
+    width: 90%;
+    margin: auto;
+    color:grey ;
+
+}
 .container{
     margin: 50px,auto;
     display: flex;
@@ -22,17 +28,46 @@ main{
 .psrn{
     width:300px;
     height: auto;
+    border-radius: 15px;
 }
 .my_name{
     color:gray ;
     font-size: 2vw;
     margin: 5px;
 }
-.person_detais{
+.person_detais, .skills_list{
     font-size: 1.13vw;
     padding: 25px;
     list-style:none;
-    color:#009688;
+    color:#009688;   
+}
+.person_detais li{
+    margin: 10px 0;
+
+}
+.person_detais li i{
+    margin: 0px 5px;
+} 
+.header-section{
+    color: #5c5c5c ;
+    padding: 30px;
+    margin: 0px;
+    font-size: 1.0;
+}
+.skills_list li{
+    margin: 10px 0px;
+
+}
+.progress-back{ 
+    border: 1px solid black ;
+    border-radius: 50%;
+    height: 1px;
+    margin-top: 15px;
+    text-align: center;
     
 }
-
+.progress{
+    height: 100%  ;
+    border-radius: 10px;
+    background:rgba(rgb(112, 19, 131), green, blue, alpha)  ;
+}
