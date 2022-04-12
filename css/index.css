@@ -28,7 +28,7 @@ main{
 .psrn{
     width:300px;
     height: auto;
-    border-radius: 15px;
+    border-radius: 50%;
 }
 .my_name{
     color:gray ;
