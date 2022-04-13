@@ -95,6 +95,7 @@ section{
     background-color: white;
     border: 1px solid grey;
     width: 100%;
+    border-radius: 20px;
     
 }
 .data_details p{
