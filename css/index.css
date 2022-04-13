@@ -132,3 +132,10 @@ h3{
 h2{
     margin: 20px;
 }
+#content {
+    position:relative;
+    background-color: white;
+    border-radius: 20px;
+    width: 95%;
+    margin: 5px auto;
+}
