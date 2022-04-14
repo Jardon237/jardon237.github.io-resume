@@ -117,6 +117,8 @@ section{
     padding: 20px 0px;
     font-weight: bold;
     line-height: 2;
+    border-radius: 10px;
+    width: 100%;
 
     
 }
