@@ -64,17 +64,26 @@ main{
 }
 .progress-back{ 
     border: 1px solid black ;
-    border-radius: 10%;
-    height: 1px;
-    margin-top: 15px;
+    border-radius: 15px;
+    height: 1.2em;
+    margin-top: 10px;
     text-align: center;
     
 }
 .progress{
-    height: 10%  ;
-    border-radius: 10px;
-    background:rgba(rgb(112, 19, 131), green, blue, alpha)  ;
+    height: 100%  ;
+    border-radius: 15px;
+    background-color:#009688;
 }
+.p-65 {width: 65%;}
+.p-90 {width: 90%;}
+.p-70 {width: 70%;}
+.p-60 {width: 60%;}
+.p-30 {width: 30%;}
+.p-50 {width: 50%;}
+.p-50 {width: 50%;}
+.p-100 {width: 100%;}
+
 .experience{
 
 }
