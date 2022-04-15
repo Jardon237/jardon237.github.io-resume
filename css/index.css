@@ -33,12 +33,12 @@ main{
 }
 .my_name{
     color:gray ;
-    font-size: 2vw;
+    font-size: 2vw;    
     margin: 5px;
 }
 .person_detais, .skills_list{
-    font-size: 1.13vw;
-    padding: 25px;
+    font-size: 1.5vw;
+    padding: 5px;
     list-style:none;
     color:#009688;   
 }
