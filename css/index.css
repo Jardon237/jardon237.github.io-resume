@@ -49,11 +49,14 @@ main{
 .person_detais li i{
     margin: 0px 5px;
 } 
-.header-section{
+.head-section{
     color: #5c5c5c ;
     padding: 30px;
     margin: 0px;
     font-size: 1.0;
+}
+.skills_list{
+
 }
 .skills_list li{
     margin: 10px 0px;
